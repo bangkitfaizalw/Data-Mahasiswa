@@ -1,0 +1,10 @@
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\bin\Debug\Library.exe.config
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\bin\Debug\Library.exe
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\bin\Debug\Library.pdb
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.exe
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.pdb
+D:\PROGRAM\TUGAS PEMORG2\Library\Library\obj\Debug\Library.ListView.resources
